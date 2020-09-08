@@ -1,0 +1,31 @@
+{
+  "name": "satoshi",
+  "version": "1.0.0",
+  "description": "Manipulate satoshi-related prices in Node",
+  "main": "",
+  "bin": {
+    "": ""
+  },
+  "scripts": {
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomgabriel/satoshi.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Thom, G. <thomgabriel@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomgabriel/satoshi/issues"
+  },
+  "homepage": "https://github.com/thomgabriel/satoshi",
+  "dependencies": {
+    "": ""
+  },
+  "devDependencies": {
+    "": ""
+  }
+}
